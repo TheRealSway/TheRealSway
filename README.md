@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheRealSway
+- 👀 I’m interested in software development, open-source projects, and AI.
+- 🌱 I’m currently learning Python and web development.
+- 💞️ I’m looking to collaborate on projects related to machine learning or web apps.
+- 📫 How to reach me: lukhele.official@gmail.com or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡️ Fun fact: I once hiked the entire Appalachian Trail!
